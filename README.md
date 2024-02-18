@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krittiyanee Krongsat
 ============================================================================================================================================
 
-Student - Bangkok University Bachelor Of Engineering
-(Computer and Robotics Engineering)
+Student - Bangkok University Bachelor Of Engineering<br />(Computer and Robotics Engineering)
 ---------------------------------------------------------------------------------------
 
 I'm looking for an internship at learned about Full Stack Developer that wants experience and practical.
